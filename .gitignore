@@ -127,6 +127,9 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+cdc
+cdc/
+.cdc
 
 # Spyder project settings
 .spyderproject
