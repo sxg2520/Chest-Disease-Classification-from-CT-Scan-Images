@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/NOTES/MLDL/Chest-Disease-Classification-from-CT-Scan-Images/mlruns/0/87090eb815894a1ea67b69f6bcfc0a7c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 87090eb815894a1ea67b69f6bcfc0a7c
+run_name: overjoyed-fowl-557
+run_uuid: 87090eb815894a1ea67b69f6bcfc0a7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710283392551
+status: 1
+tags: []
+user_id: Sid
