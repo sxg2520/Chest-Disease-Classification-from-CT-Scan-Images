@@ -61,7 +61,7 @@ python script.py
 ### RUN from bash terminal
 
 ```bash
-export MLFLOW_TRACKING_URI=https://dagshub.com/sxg2520/MLFlow-exp-demo.mlflow
+export MLFLOW_TRACKING_URI=https://dagshub.com/sxg2520/Chest-Disease-Classification-from-CT-Scan-Images.mlflow
 
 export MLFLOW_TRACKING_USERNAME=sxg2520 
 
