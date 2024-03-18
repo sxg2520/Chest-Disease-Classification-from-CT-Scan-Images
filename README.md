@@ -50,14 +50,6 @@ python app.py
 
 ### Mlflow dagshub connection uri
 
-```bash
-MLFLOW_TRACKING_URI=https://dagshub.com/entbappy/MLflow-Expriement-demo.mlflow \
-MLFLOW_TRACKING_USERNAME=entbappy \
-MLFLOW_TRACKING_PASSWORD=6824692c47a369aa6f9eac5b10041d5c8edbcef0 \
-python script.py
-```
-
-
 ### RUN from bash terminal
 
 ```bash
@@ -68,3 +60,10 @@ export MLFLOW_TRACKING_USERNAME=sxg2520
 export MLFLOW_TRACKING_PASSWORD=c5674dc7b2ee74b8679ba59b421652b51ea83cc2
 
 ```
+'''
+DVC cmd
+
+dvc init
+dvc repro
+dvc dag
+'''
